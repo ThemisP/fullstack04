@@ -10,3 +10,4 @@ function multiplication(a,b) {
 console.log("Hello World");
 
 console.log('My name is Marian. Hello.');
+console.log('Hello, my name is Marian and this is my branch');
